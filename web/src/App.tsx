@@ -10,6 +10,7 @@ export default () => {
 
   return (
     <div>
+      <button onClick={callApi}>call api</button>
     </div>
   );
 };
